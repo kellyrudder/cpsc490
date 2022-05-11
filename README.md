@@ -1,2 +1,2 @@
-# cpsc490
-This code is an meant to be supplementary to Merlot Reserve and developed for the CPSC490 senior project
+# Testing Zero Shot Merlot Reserve Experiments
+This code is supplementary to the Merlot Reserve repository. These tests run variations of our own zero shot experiments. 
